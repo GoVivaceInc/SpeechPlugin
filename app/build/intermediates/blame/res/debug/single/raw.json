@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explore_end.ogg",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\explore_end.ogg"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\error.wav",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\error.wav"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explore_begin.ogg",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\raw\\explore_begin.ogg"
+    }
+]

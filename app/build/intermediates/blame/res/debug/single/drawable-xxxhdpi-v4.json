@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_service.png",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-xxxhdpi-v4\\ic_service.png"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_voice_search_api_material.png",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-xxxhdpi-v4\\ic_voice_search_api_material.png"
+    }
+]

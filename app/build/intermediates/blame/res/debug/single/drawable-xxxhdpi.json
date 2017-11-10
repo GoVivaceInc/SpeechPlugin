@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_input_extract_action_search.png",
+        "source": "E:\\Software\\SpeechPlugin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_input_extract_action_search.png"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_settings_24dp.png",
+        "source": "E:\\Software\\SpeechPlugin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings_24dp.png"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\govivace.png",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable-xxxhdpi\\govivace.png"
+    }
+]

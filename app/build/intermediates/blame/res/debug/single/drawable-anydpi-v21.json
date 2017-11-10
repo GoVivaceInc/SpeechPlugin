@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_voice_search_api_material.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_input_extract_action_search.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_input_extract_action_search.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_settings_24dp.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings_24dp.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_service.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\ic_service.xml"
+    }
+]

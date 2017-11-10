@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_3.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_3.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_0.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_0.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_go.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable\\button_go.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_2.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_2.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_gradient.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable\\rectangle_gradient.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_transcribing.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_transcribing.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_tap_and_speak.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable\\button_tap_and_speak.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_waiting.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_waiting.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_combo.xml",
+        "source": "E:\\Software\\SpeechPlugin\\app\\res\\drawable\\button_combo.xml"
+    },
+    {
+        "merged": "E:\\Software\\SpeechPlugin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_mic_recording_1.xml",
+        "source": "E:\\Software\\SpeechPlugin\\speechutils\\app\\build\\intermediates\\bundles\\default\\res\\drawable\\button_mic_recording_1.xml"
+    }
+]
