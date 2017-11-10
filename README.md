@@ -62,6 +62,7 @@ The (signed and unsigned) APKs will be generated into `app/build/outputs/apk/`.
 
 Contributions
 -------------
+This version is modified by GoVivace to work with GoVivace speech engine.
 
 The client for <https://github.com/alumae/kaldi-gstreamer-server>
 was originally based on <https://github.com/truongdq54/kaldi-gstreamer-android-client>.
